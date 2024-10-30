@@ -1,0 +1,18 @@
+#toplevel_page_custom-blocks>ul>li:nth-child(5)>a,
+#toplevel_page_custom-blocks>ul>li:nth-child(6)>a,
+#toplevel_page_custom-blocks>ul>li:nth-child(7)>a,
+#toplevel_page_custom-blocks>ul>li:nth-child(8)>a {
+    color: #666666 !important;
+}
+
+#toplevel_page_custom-blocks div.wp-menu-image img {
+    padding-top: 6px;
+    width: 20px;
+}
+
+img.star_img_cb {
+    width: 21px;
+    position: absolute;
+    padding-left: 6px;
+    margin-top: -2px;
+}

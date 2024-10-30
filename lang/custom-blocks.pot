@@ -1,0 +1,672 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Easy Custom Advert Blocks v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-20 14:49+0600\n"
+"PO-Revision-Date: 2015-10-20 13:36+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n"
+"+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-blocks.php:791 custom-blocks.php:799
+msgid "Custom Advert Blocks plugin"
+msgstr ""
+
+#: custom-blocks.php:791 custom-blocks.php:948 custom-blocks.php:988
+#: custom-blocks.php:1603 custom-blocks.php:2447
+msgid "Рекламные блоки"
+msgstr ""
+
+#: custom-blocks.php:792
+msgid "Настройки вывода"
+msgstr ""
+
+#: custom-blocks.php:793 custom-blocks.php:990
+msgid "Статистика"
+msgstr ""
+
+#: custom-blocks.php:794
+msgid "Разрешения экрана"
+msgstr ""
+
+#: custom-blocks.php:795
+msgid "Загрузка БД"
+msgstr ""
+
+#: custom-blocks.php:796
+msgid "Экспорт/Импорт"
+msgstr ""
+
+#: custom-blocks.php:797
+msgid "Лицензия"
+msgstr ""
+
+#: custom-blocks.php:799 custom-blocks.php:2617
+msgid "Custom Blocks"
+msgstr ""
+
+#: custom-blocks.php:829
+msgid "Разрешение экрана"
+msgstr ""
+
+#: custom-blocks.php:834
+msgid "Ширина от:"
+msgstr ""
+
+#: custom-blocks.php:840
+msgid "Ширина до:"
+msgstr ""
+
+#: custom-blocks.php:846
+msgid "Добавить"
+msgstr ""
+
+#: custom-blocks.php:857 custom-blocks.php:982 custom-blocks.php:1630
+msgid "от"
+msgstr ""
+
+#: custom-blocks.php:857 custom-blocks.php:983 custom-blocks.php:1630
+#: custom-blocks.php:2828
+msgid "до"
+msgstr ""
+
+#: custom-blocks.php:863
+msgid "Удалить разрешение"
+msgstr ""
+
+#: custom-blocks.php:869
+msgid "При удалении разрешения, все относящиеся к нему блоки будут удалены."
+msgstr ""
+
+#: custom-blocks.php:940
+msgid "Файл БД успешно импортирован, добавлено записей в БД"
+msgstr ""
+
+#: custom-blocks.php:942
+msgid "Нет данных в файле, или он имеет неверный формат."
+msgstr ""
+
+#: custom-blocks.php:950
+msgid "Экспорт"
+msgstr ""
+
+#: custom-blocks.php:952
+msgid "Нажмите на "
+msgstr ""
+
+#: custom-blocks.php:952
+msgid "эту ссылку"
+msgstr ""
+
+#: custom-blocks.php:952
+msgid "чтобы получить файл экспорта"
+msgstr ""
+
+#: custom-blocks.php:954
+msgid "Импорт"
+msgstr ""
+
+#: custom-blocks.php:956
+msgid ""
+"Внимание! Все настройки и блоки будут замещены данными из загруженного файла!"
+msgstr ""
+
+#: custom-blocks.php:956
+msgid ""
+"Формат файла\n"
+"                \"<b>.json</b>\", который был ранее получен с помощью "
+"экспорта."
+msgstr ""
+
+#: custom-blocks.php:962 custom-blocks.php:2251 custom-blocks.php:2266
+msgid "Загрузить"
+msgstr ""
+
+#: custom-blocks.php:974 custom-blocks.php:1637 custom-blocks.php:2816
+msgid "Заглушка"
+msgstr ""
+
+#: custom-blocks.php:975 custom-blocks.php:2819
+msgid "Для всех разрешений"
+msgstr ""
+
+#: custom-blocks.php:976 custom-blocks.php:2822
+msgid "AdBlock"
+msgstr ""
+
+#: custom-blocks.php:997 custom-blocks.php:2681
+msgid "Блок"
+msgstr ""
+
+#: custom-blocks.php:1000
+msgid "Разрешение"
+msgstr ""
+
+#: custom-blocks.php:1003 custom-blocks.php:2686
+msgid "Код"
+msgstr ""
+
+#: custom-blocks.php:1006
+msgid "Показы"
+msgstr ""
+
+#: custom-blocks.php:1009
+msgid "Клики"
+msgstr ""
+
+#: custom-blocks.php:1012
+msgid "CTR"
+msgstr ""
+
+#: custom-blocks.php:1110
+msgid "Копия"
+msgstr ""
+
+#: custom-blocks.php:1433 custom-blocks.php:1439
+msgid "Новый блок"
+msgstr ""
+
+#: custom-blocks.php:1443
+msgid "Отменить изменения"
+msgstr ""
+
+#: custom-blocks.php:1444
+msgid "Вернуть изменения"
+msgstr ""
+
+#: custom-blocks.php:1450
+msgid "HTML код"
+msgstr ""
+
+#: custom-blocks.php:1455
+msgid "Включить геотаргетинг"
+msgstr ""
+
+#: custom-blocks.php:1456 custom-blocks.php:1528
+msgid "Фильтр по контенту"
+msgstr ""
+
+#: custom-blocks.php:1457 custom-blocks.php:1580
+msgid "Фильтр по времени"
+msgstr ""
+
+#: custom-blocks.php:1463 custom-blocks.php:2697
+msgid "Показывать"
+msgstr ""
+
+#: custom-blocks.php:1477
+msgid "Геотаргетинг"
+msgstr ""
+
+#: custom-blocks.php:1480
+msgid "Страна"
+msgstr ""
+
+#: custom-blocks.php:1483
+msgid "Город"
+msgstr ""
+
+#: custom-blocks.php:1488 custom-blocks.php:1539
+msgid "Разрешить:"
+msgstr ""
+
+#: custom-blocks.php:1491
+msgid "Выбор страны..."
+msgstr ""
+
+#: custom-blocks.php:1498 custom-blocks.php:1517
+msgid "Выбор города..."
+msgstr ""
+
+#: custom-blocks.php:1507 custom-blocks.php:1559
+msgid "Запретить:"
+msgstr ""
+
+#: custom-blocks.php:1531 custom-blocks.php:2919 custom-blocks.php:2931
+msgid "Категория"
+msgstr ""
+
+#: custom-blocks.php:1534
+msgid "Запись"
+msgstr ""
+
+#: custom-blocks.php:1542 custom-blocks.php:1562
+msgid "Выбор категории..."
+msgstr ""
+
+#: custom-blocks.php:1550 custom-blocks.php:1569
+msgid "Выбор записи..."
+msgstr ""
+
+#: custom-blocks.php:1582
+msgid "Время показа блока"
+msgstr ""
+
+#: custom-blocks.php:1583
+msgid "Дата показа блока"
+msgstr ""
+
+#: custom-blocks.php:1588
+msgid "Только в будни"
+msgstr ""
+
+#: custom-blocks.php:1591
+msgid "Круглосуточно"
+msgstr ""
+
+#: custom-blocks.php:1593
+msgid "Только в выходные"
+msgstr ""
+
+#: custom-blocks.php:1605
+msgid "Редактирование"
+msgstr ""
+
+#: custom-blocks.php:1605
+msgid "Добавление"
+msgstr ""
+
+#: custom-blocks.php:1612
+msgid "Название блока"
+msgstr ""
+
+#: custom-blocks.php:1613
+msgid "Синхронный тип рекламного блока"
+msgstr ""
+
+#: custom-blocks.php:1621
+msgid "Для всех"
+msgstr ""
+
+#: custom-blocks.php:1621
+msgid "разрешений"
+msgstr ""
+
+#: custom-blocks.php:1648 custom-blocks.php:1663
+msgid "Добавить блок"
+msgstr ""
+
+#: custom-blocks.php:1654
+msgid "Ни одного кода еще не добавлено"
+msgstr ""
+
+#: custom-blocks.php:1669
+msgid "Сохранить"
+msgstr ""
+
+#: custom-blocks.php:1965
+msgid "Вам необходимо загрузить Базу Геолокаций. Перейдите по "
+msgstr ""
+
+#: custom-blocks.php:1966
+msgid "ссылке"
+msgstr ""
+
+#: custom-blocks.php:1966
+msgid "для загрузки."
+msgstr ""
+
+#: custom-blocks.php:2000
+msgid "Plugin License Options"
+msgstr ""
+
+#: custom-blocks.php:2010
+msgid "License Key"
+msgstr ""
+
+#: custom-blocks.php:2017
+msgid "Enter your license key"
+msgstr ""
+
+#: custom-blocks.php:2023 custom-blocks.php:2035
+msgid "Activate License"
+msgstr ""
+
+#: custom-blocks.php:2027
+msgid "active"
+msgstr ""
+
+#: custom-blocks.php:2030
+msgid "Deactivate License"
+msgstr ""
+
+#: custom-blocks.php:2172
+msgid "Загрузка файлов БД"
+msgstr ""
+
+#: custom-blocks.php:2200
+msgid "Ошибка загрузки файла"
+msgstr ""
+
+#: custom-blocks.php:2211
+msgid "Метод"
+msgstr ""
+
+#: custom-blocks.php:2212
+msgid "Определения"
+msgstr ""
+
+#: custom-blocks.php:2214 custom-blocks.php:2222
+msgid "Требуется загрузка"
+msgstr ""
+
+#: custom-blocks.php:2216 custom-blocks.php:2224
+msgid "Загрузка не требуется"
+msgstr ""
+
+#: custom-blocks.php:2220
+msgid "База Данных"
+msgstr ""
+
+#: custom-blocks.php:2230
+msgid "cURL (автоматическое скачивание)"
+msgstr ""
+
+#: custom-blocks.php:2232 custom-blocks.php:2234
+msgid "Скачать/обновить"
+msgstr ""
+
+#: custom-blocks.php:2236
+msgid "Метод не доступен на данном сервере"
+msgstr ""
+
+#: custom-blocks.php:2241
+msgid "Upload (Ручная загрузка)"
+msgstr ""
+
+#: custom-blocks.php:2244
+msgid "Необходимо скачать архив определений по адресу"
+msgstr ""
+
+#: custom-blocks.php:2247 custom-blocks.php:2262
+msgid "И отправте с помощью формы загрузки."
+msgstr ""
+
+#: custom-blocks.php:2248 custom-blocks.php:2263
+msgid "Форма для загрузки файлов"
+msgstr ""
+
+#: custom-blocks.php:2254 custom-blocks.php:2271
+msgid ""
+"Метод недоступен на данном сервере. Размер файла привышает лимит загрузки с "
+"помощью PHP"
+msgstr ""
+
+#: custom-blocks.php:2259
+msgid "Необходимо скачать файлы БД по адресу:"
+msgstr ""
+
+#: custom-blocks.php:2277
+msgid "FTP (Загрузка через Ftp доступ)"
+msgstr ""
+
+#: custom-blocks.php:2279 custom-blocks.php:2283
+msgid "Загрузить через FTP"
+msgstr ""
+
+#: custom-blocks.php:2287
+msgid "После скачивания необходимо загрузить по FTP подключению в папку"
+msgstr ""
+
+#: custom-blocks.php:2289
+msgid "И нажать \"Загрузить через FTP\" Рядом с соответствующим файлом."
+msgstr ""
+
+#: custom-blocks.php:2293
+msgid ""
+"В случае если не получается загрузить базы ни одним из способов, проверьте "
+"права доступа каталога"
+msgstr ""
+
+#: custom-blocks.php:2294
+msgid "рекомендуемое значение"
+msgstr ""
+
+#: custom-blocks.php:2294
+msgid "подробнее можно ознакомится в"
+msgstr ""
+
+#: custom-blocks.php:2295
+msgid "справке"
+msgstr ""
+
+#: custom-blocks.php:2448
+msgid "Добавить новый"
+msgstr ""
+
+#: custom-blocks.php:2452
+msgid "Все"
+msgstr ""
+
+#: custom-blocks.php:2456
+msgid "Активные"
+msgstr ""
+
+#: custom-blocks.php:2460
+msgid "Неактивные"
+msgstr ""
+
+#: custom-blocks.php:2468 custom-blocks.php:2572
+msgid "Выберите массовое действие"
+msgstr ""
+
+#: custom-blocks.php:2470 custom-blocks.php:2574
+msgid "Действия"
+msgstr ""
+
+#: custom-blocks.php:2471 custom-blocks.php:2519 custom-blocks.php:2575
+msgid "Активировать"
+msgstr ""
+
+#: custom-blocks.php:2472 custom-blocks.php:2515 custom-blocks.php:2576
+msgid "Деактивировать"
+msgstr ""
+
+#: custom-blocks.php:2473 custom-blocks.php:2524 custom-blocks.php:2577
+msgid "Delete"
+msgstr ""
+
+#: custom-blocks.php:2475 custom-blocks.php:2579
+msgid "Применить"
+msgstr ""
+
+#: custom-blocks.php:2476
+msgid "Развернуть все"
+msgstr ""
+
+#: custom-blocks.php:2477
+msgid "Свернуть все"
+msgstr ""
+
+#: custom-blocks.php:2484 custom-blocks.php:2562
+msgid "Выделить все"
+msgstr ""
+
+#: custom-blocks.php:2487 custom-blocks.php:2565
+msgid "Название"
+msgstr ""
+
+#: custom-blocks.php:2488 custom-blocks.php:2566
+msgid "Статус"
+msgstr ""
+
+#: custom-blocks.php:2511
+msgid "Изменить"
+msgstr ""
+
+#: custom-blocks.php:2522
+msgid "Вы уверены что хотите удалить блок?"
+msgstr ""
+
+#: custom-blocks.php:2528
+msgid "Копировать блок"
+msgstr ""
+
+#: custom-blocks.php:2532
+msgid "Код для вставки(PHP)"
+msgstr ""
+
+#: custom-blocks.php:2543
+msgid "Активирован"
+msgstr ""
+
+#: custom-blocks.php:2545
+msgid "Деактивирован"
+msgstr ""
+
+#: custom-blocks.php:2548
+msgid "Синхронный"
+msgstr ""
+
+#: custom-blocks.php:2550
+msgid "Асинхронный"
+msgstr ""
+
+#: custom-blocks.php:2591
+msgid "Свернуть"
+msgstr ""
+
+#: custom-blocks.php:2594 custom-blocks.php:2841
+msgid "Развернуть"
+msgstr ""
+
+#: custom-blocks.php:2621
+msgid "Settings saved."
+msgstr ""
+
+#: custom-blocks.php:2626
+msgid ""
+"Для правильной работы плагина, должно быть доступно расширение php mbstring."
+msgstr ""
+
+#: custom-blocks.php:2642
+msgid "Введите кол-во блоков"
+msgstr ""
+
+#: custom-blocks.php:2645
+msgid "Для применения настроек сохраните изменения"
+msgstr ""
+
+#: custom-blocks.php:2658
+msgid "Показывать для"
+msgstr ""
+
+#: custom-blocks.php:2669
+msgid "Выберите желаемые типы постов, в которых будут отображаться блоки кода."
+msgstr ""
+
+#: custom-blocks.php:2673
+msgid "начала текста"
+msgstr ""
+
+#: custom-blocks.php:2676
+msgid "предыдущего блока"
+msgstr ""
+
+#: custom-blocks.php:2702
+msgid "После N символов"
+msgstr ""
+
+#: custom-blocks.php:2706
+msgid "После N абзацев"
+msgstr ""
+
+#: custom-blocks.php:2710
+msgid "Перед последним абзацем"
+msgstr ""
+
+#: custom-blocks.php:2714
+msgid "В конце статьи"
+msgstr ""
+
+#: custom-blocks.php:2718
+msgid "Под заголовком"
+msgstr ""
+
+#: custom-blocks.php:2722
+msgid "После 1 картинки в тексте"
+msgstr ""
+
+#: custom-blocks.php:2733
+msgid "При общем объеме текста более"
+msgstr ""
+
+#: custom-blocks.php:2737
+msgid "символов."
+msgstr ""
+
+#: custom-blocks.php:2779
+msgid "отсчет от начала текста"
+msgstr ""
+
+#: custom-blocks.php:2781
+msgid "отсчет от Блока"
+msgstr ""
+
+#: custom-blocks.php:2827
+msgid "от "
+msgstr ""
+
+#: custom-blocks.php:2830
+msgid "Разрешение не определено"
+msgstr ""
+
+#: custom-blocks.php:2840
+msgid "Список блоков"
+msgstr ""
+
+#: custom-blocks.php:2865
+msgid "Геолокация"
+msgstr ""
+
+#: custom-blocks.php:2868 custom-blocks.php:2916
+msgid "Разрешено"
+msgstr ""
+
+#: custom-blocks.php:2880 custom-blocks.php:2928
+msgid "Запрещено"
+msgstr ""
+
+#: custom-blocks.php:2914
+msgid "Контент"
+msgstr ""
+
+#: custom-blocks.php:2922 custom-blocks.php:2934
+msgid "Пост"
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%3$s\">View version %4$s details</a>."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:185
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update "
+"now</a>."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:326
+msgid "You do not have sufficient permissions to update plugins for this site."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:326
+msgid "Error"
+msgstr ""
